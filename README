@@ -1,0 +1,17 @@
+gemfile
+====
+
+Library to generate a gemfile using installed gems.
+
+Description
+-----------
+
+Library to generate a gemfile using installed gems.
+
+## Installation
+
+As usual, you can install it using rubygems.
+
+```
+$ gem install gemfile
+```
