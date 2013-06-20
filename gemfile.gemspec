@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name              = "gemfile"
-  s.version           = "0.0.1"
+  s.version           = "0.0.2"
   s.summary           = "Library to generate a gemfile using installed gems."
   s.description       = "Library to generate a gemfile using installed gems."
   s.authors           = ["Cyril David", "Michel Martens"]
